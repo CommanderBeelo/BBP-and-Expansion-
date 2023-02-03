@@ -1,5 +1,5 @@
 # BBP-and-Expansion-
-Steps for setting up your DayZ server with Expansion and Base Building Plus.
+Steps for setting up your DayZ server with Expansion and Base Building Plus. We Will not be using Braching Charge or the standalone Code lock mod, instead we will be using the Expansion options ofr both. 
 
 # Step 1 - Install Expansion
 
