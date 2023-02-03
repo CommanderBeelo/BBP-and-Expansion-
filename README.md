@@ -35,9 +35,9 @@ I am using option 2 and have included my cfggameplay.json as an example. bear in
 
 ## Step 4 - Add the bbp_vanilla_dmg pbo 
 
-This step you may need to learn on youtube on how to pack up server mods. I have provided the code for the cpp, you just need to pack it up and add it to your server mod, or adjust as you see fit. 
+This step you may need to learn on youtube on how to pack up server mods. I have provided the code for the cpp (obtained from the BBP Discord), you just need to pack it up and add it to your server mod, or adjust as you see fit. You can find this and other damage pbos in the BaseBuildingPlus Discord.
 
-I was going for 1 Satchel charger per Tier. You can adjust to your liking. You can find other damage pbos in the BaseBuildingPlus Discord.
+I was going for 1 Satchel charger per Tier. You can adjust to your liking. 
 
 ## Discord Links
 
