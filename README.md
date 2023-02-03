@@ -33,7 +33,7 @@ Option 2 - Use cfggameplay and enable ""disableIsCollidingBBoxCheck": 1," - http
 
 I am using option 2 and have included my cfggameplay.json as an example. bear in mind I run a namalsk server, so temps and lighting may need adjusted for your use case.
 
-$Step 4 - Add the bbp_vanilla_dmg pbo 
+# Step 4 - Add the bbp_vanilla_dmg pbo 
 
 This step you may need to learn on youtube on how to pack up server mods. I have provided the code for the cpp, you just need to pack it up and add it to your server mod, or adjust as you see fit. 
 
