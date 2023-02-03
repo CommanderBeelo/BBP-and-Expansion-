@@ -1,0 +1,122 @@
+{
+    "m_Version": 4,
+    "CanBuildAnywhere": 1,
+    "AllowBuildingWithoutATerritory": 0,
+    "DeployableOutsideATerritory": [
+        "ExpansionSatchel",
+        "Fireplace",
+        "TerritoryFlagKit",
+        "MediumTent",
+        "LargeTent",
+        "CarTent",
+        "PartyTent",
+        "ExpansionCamoTentKit",
+        "ExpansionCamoBoxKit",
+        "ShelterKit",
+        "LandMineTrap",
+        "BearTrap",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap",
+        "TripwireTrap",
+        "ExpansionSafeLarge",
+        "ExpansionSafeMedium",
+        "ExpansionSafeSmall",
+        "SeaChest",
+        "WoodenCrate",
+        "GardenPlot"
+    ],
+    "DeployableInsideAEnemyTerritory": [
+        "ExpansionSatchel",
+        "LandMineTrap",
+        "BearTrap",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap",
+        "TripwireTrap"
+    ],
+    "CanCraftVanillaBasebuilding": 1,
+    "CanCraftExpansionBasebuilding": 1,
+    "DestroyFlagOnDismantle": 1,
+    "DismantleOutsideTerritory": 1,
+    "DismantleInsideTerritory": 1,
+    "DismantleAnywhere": 1,
+    "CodelockActionsAnywhere": 1,
+    "CodeLockLength": 4,
+    "DoDamageWhenEnterWrongCodeLock": 1,
+    "DamageWhenEnterWrongCodeLock": 10.0,
+    "RememberCode": 1,
+    "CanCraftTerritoryFlagKit": 1,
+    "SimpleTerritory": 1,
+    "AutomaticFlagOnCreation": 1,
+    "GetTerritoryFlagKitAfterBuild": 0,
+    "BuildZoneRequiredCustomMessage": "",
+    "Zones": [
+        {
+            "Name": "Airstrip Trader",
+            "Center": [
+                6305.0,
+                26.0,
+                9521.0
+            ],
+            "Radius": 400.0,
+            "Items": [
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Jalovisko Trader Camp",
+            "Center": [
+                8583.669921875,
+                29.0,
+                10515.0
+            ],
+            "Radius": 200.0,
+            "Items": [
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        },
+        {
+            "Name": "Tara Harbor Boat Trader",
+            "Center": [
+                8043.4501953125,
+                10.0,
+                7593.4501953125
+            ],
+            "Radius": 200.0,
+            "Items": [
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": ""
+        }
+    ],
+    "ZonesAreNoBuildZones": 1,
+    "CodelockAttachMode": 2,
+    "DismantleFlagMode": -1,
+    "FlagMenuMode": 1,
+    "EnableVirtualStorage": 0,
+    "VirtualStorageExcludedContainers": []
+}
