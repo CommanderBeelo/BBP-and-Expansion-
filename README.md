@@ -21,7 +21,7 @@ The other Settings we are going to look at are in mpmission/mapname/expansion/se
 
 Install BBP, add the types to your economy core, set up their settings however you see fit, we will be skipping breaching charges for my tutorial here, so the config that the mod comes with will work for our scenario. I have again included my settings as an example from my server. You do not need to install the stand alone code lock mod. The bridge mod we installed in step 1 will fill BBPs dependency on CodeLock. 
 
-The BBP wiki - https://github.com/FelixForesight2020/BaseBuildingPlus/wiki
+The BBP wiki - https://gitlab.com/basebuildingplus/bbp-wiki/-/wikis/home
 
 ## Step 4 - Fix the Hologram placement issue 
 
