@@ -1,4 +1,7 @@
 # BBP-and-Expansion-
+
+If this was useful, leave a star.
+
 Steps for setting up your DayZ server with Expansion and Base Building Plus. We Will not be using Breaching Charge or the standalone Code lock mod, instead we will be using the Expansion options for both. I do not see anthing stopping you from using either mod, it just adds more configuration complexity having 3 or 4 different settings files for raiding. I am lazy, and would rather have one spot to adjust things.
 
 ## Step 1 - Install Expansion
