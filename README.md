@@ -39,6 +39,10 @@ This step you may need to learn on youtube on how to pack up server mods. I have
 
 I was going for 1 Satchel charger per Tier. You can adjust to your liking. 
 
+## Step  - Expansion Market Category 
+
+I have also included an Expansion Market file. This goes into profiles/Expansionmod/Market. You can then link the json to a trader in profiles/expansionmod/traders in the categories section. Note this file only includes the Workbench, Tools, and flair items, all other kits are not listed, as they can be crafted and theres no point in adding the kits to the trader if you're going to use the workbench, just craft the kits. Heres a quick video on the Expansion Market if you are not familiar - https://www.youtube.com/watch?v=q7sahJJMdDU
+
 ## Discord Links
 
 The Horror At Namalsk (My Discord) - https://discord.gg/TdhaZ6TtuT
@@ -46,3 +50,7 @@ The Horror At Namalsk (My Discord) - https://discord.gg/TdhaZ6TtuT
 Expansion Discord - https://discord.gg/rMZuS4F
 
 BaseBuildingPlus - https://discord.com/invite/TuwgjqK
+
+# KNOWN ISSUES
+
+Regaurdless of Expansion settings, you can place kits in other peoples territory's. It will only let you place the hologram, it will not let you build. To advoid people abusing this to trap people in holograms in their own bases, thurn hologram collision off in BBP settings. ""BBP_HologramHasCollision": 0,"
