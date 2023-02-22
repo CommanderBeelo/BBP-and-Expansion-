@@ -20,6 +20,12 @@ There are a couple of Expansion settings you will want to address before we get 
 
 The other Settings we are going to look at are in mpmission/mapname/expansion/settings. We are going to open up BaseBuilding.json. You can set these up however you like except for ""CodelockAttachMode": 2,". you want this set to 2, so it will attach to everything with a codelock slot. All the other settings are up to you. I have included an example from my server as well. 
 
+NOTE: If you want to be able to dismantle storage and walls (from the softside of territories that aren't yours), set these like this:
+
+    "DismantleOutsideTerritory": 1,
+    "DismantleInsideTerritory": 1,
+    "DismantleAnywhere": 0,
+
 ## Step 3 - Install BaseBuildingPlus
 
 Install BBP, add the types to your economy core, set up their settings however you see fit, we will be skipping breaching charges for my tutorial here, so the config that the mod comes with will work for our scenario. I have again included my settings as an example from my server. You do not need to install the stand alone code lock mod. The bridge mod we installed in step 1 will fill BBPs dependency on CodeLock. 
