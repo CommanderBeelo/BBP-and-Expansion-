@@ -63,3 +63,13 @@ BaseBuildingPlus - https://discord.com/invite/TuwgjqK
 # KNOWN ISSUES
 
 Regaurdless of Expansion settings, you can place kits in other peoples territory's. It will only let you place the hologram, it will not let you build. To advoid people abusing this to trap people in holograms in their own bases, thurn hologram collision off in BBP settings. ""BBP_HologramHasCollision": 0,"
+
+```
+ __ __ __    ________  ___   ___   ________      ______   __  __   __     _________  
+/_//_//_/\  /_______/\/___/\/__/\ /_______/\    /_____/\ /_/\/_/\ /_/\   /________/\ 
+\:\\:\\:\ \ \__.::._\/\::.\ \\ \ \\__.::._\/    \:::__\/ \:\ \:\ \\:\ \  \__.::.__\/ 
+ \:\\:\\:\ \   \::\ \  \:: \/_) \ \  \::\ \      \:\ \  __\:\ \:\ \\:\ \    \::\ \   
+  \:\\:\\:\ \  _\::\ \__\:. __  ( (  _\::\ \__    \:\ \/_/\\:\ \:\ \\:\ \____\::\ \  
+   \:\\:\\:\ \/__\::\__/\\: \ )  \ \/__\::\__/\    \:\_\ \ \\:\_\:\ \\:\/___/\\::\ \ 
+    \_______\/\________\/ \__\/\__\/\________\/     \_____\/ \_____\/ \_____\/ \__\/ 
+```
