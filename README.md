@@ -42,13 +42,13 @@ Option 2 - Use cfggameplay and enable ""disableIsCollidingBBoxCheck": 1," - http
 
 I am using option 2 and have included my cfggameplay.json as an example. bear in mind I run a namalsk server, so temps and lighting may need adjusted for your use case.
 
-## Step 4 - Add the bbp_vanilla_dmg pbo (optional)
+## Step 5 - Add the bbp_vanilla_dmg pbo (optional)
 
 This lets you use Expansion Satchel Charges to Raid BBP bases. This step you may need to learn on youtube on how to pack up server mods. I have provided the code for the cpp (obtained from the BBP Discord), you just need to pack it up and add it to your server mod, or adjust as you see fit. You can find this and other damage pbos in the BaseBuildingPlus Discord, such as vanilal dmaage to just doors only. 
 
 I was going for 1 Satchel charger per Tier. You can adjust to your liking. 
 
-## Step 5 - Expansion Market Category (optional, you can spawn the workbench and stuff as loot if you want)
+## Step 6 - Expansion Market Category (optional, you can spawn the workbench and stuff as loot if you want)
 
 I have also included an Expansion Market file. This goes into profiles/Expansionmod/Market. You can then link the json to a trader in profiles/expansionmod/traders in the categories section. Note this file only includes the Workbench, Tools, and flair items, all other kits are not listed, as they can be crafted and theres no point in adding the kits to the trader if you're going to use the workbench, just craft the kits. Heres a quick video on the Expansion Market if you are not familiar - https://www.youtube.com/watch?v=q7sahJJMdDU
 
