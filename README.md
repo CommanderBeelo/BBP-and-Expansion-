@@ -73,3 +73,7 @@ Regaurdless of Expansion settings, you can place kits in other peoples territory
    \:\\:\\:\ \/__\::\__/\\: \ )  \ \/__\::\__/\    \:\_\ \ \\:\_\:\ \\:\/___/\\::\ \ 
     \_______\/\________\/ \__\/\__\/\________\/     \_____\/ \_____\/ \_____\/ \__\/ 
 ```
+
+
+
+![BBP and Expansion](https://github.com/CommanderBeelo/BBP-and-Expansion-/assets/85965086/f9bac90e-6500-44dc-9855-008622f1e9b6)
