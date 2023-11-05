@@ -38,7 +38,7 @@ There are two options, both work, do which ever you see fit. Option 2 gives you 
 
 Option 1 - deprecated, use option 2 - use the hologram fix 1.19 mod on the workshop - https://steamcommunity.com/sharedfiles/filedetails/?id=2878310242
 
-Option 2 - Use cfggameplay and enable ""disableIsCollidingBBoxCheck": 1," - https://community.bistudio.com/wiki/DayZ:Gameplay_Settings or read the mod descrption in option 1. 
+Option 2 - Use cfggameplay and enable "disableIsCollidingBBoxCheck": true, - https://community.bistudio.com/wiki/DayZ:Gameplay_Settings or read the mod descrption in option 1. 
 
 I am using option 2 and have included my cfggameplay.json as an example. bear in mind I run a namalsk server, so temps and lighting may need adjusted for your use case.
 
