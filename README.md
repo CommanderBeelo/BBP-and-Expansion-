@@ -34,9 +34,9 @@ The BBP wiki - https://gitlab.com/basebuildingplus/bbp-wiki/-/wikis/home
 
 ## Step 4 - Fix the Hologram placement issue 
 
-Use cfggameplay and enable "disableIsCollidingBBoxCheck": true, - https://community.bistudio.com/wiki/DayZ:Gameplay_Settings or read the mod descrption in option 1. 
+Use cfggameplay and enable "disableIsCollidingBBoxCheck": true, - https://community.bistudio.com/wiki/DayZ:Gameplay_Settings.
 
-cfggameplay is included in this github. Mine is specific to Namalsk. 
+My cfggameplay is included in this github. Mine is specific to Namalsk. 
 
 ## Step 5 - Add the bbp_vanilla_dmg pbo (optional)
 
